@@ -1,8 +1,12 @@
 {
     "name": "RPGEditor.Editor",
     "rootNamespace": "RPGEditor.Editor",
-    "references": [],
-    "includePlatforms": [],
+    "references": [
+        "GUID:bdfd3708f96a5e94da2196bc1e269214"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
